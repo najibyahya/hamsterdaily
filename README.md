@@ -1,7 +1,5 @@
 # Hamster Kombat, Mass Combo, Mass Code Morse
-
-# YescoinBOT
-![image](https://github.com/AirDropFamilyIDN/YescoinBOT/assets/169606426/1e039910-e22b-4ce4-96e0-e637e454a834)
+![Screenshot 2024-06-18 070151](https://github.com/andraz404/hamsterdaily/assets/169606426/9fc25ce2-612f-4e46-ac3b-e019318a6321)
 
 ## Features
 - Mass Combo
