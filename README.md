@@ -36,5 +36,5 @@ cd hamsterdaily
 npm install axios
 ```
 ```sh
-node index.js
+node daily.js
 ```
